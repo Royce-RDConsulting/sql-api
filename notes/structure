@@ -1,0 +1,12 @@
+project_root/
+├── app/
+│   ├── main.py
+│   ├── database.py
+│   ├── models.py
+│   ├── schemas.py
+│   └── crud.py
+├── alembic/
+│   └── versions/
+├── alembic.ini
+├── requirements.txt
+└── .env
